@@ -4,13 +4,13 @@
 
 
 
-В пакете partOne
+В пакете src/main/java/partOne
 Лабораторная работа J110 №1 часть 1
 
 Реализация класса Country
 
 
-В пакете partTwo
+В пакете src/main/java/partTwo
 Лабораторная работа J110 №1 часть 2
 
 Реализация классов Publisher и Book
