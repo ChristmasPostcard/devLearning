@@ -20,9 +20,7 @@ public class Main {
                     countries = addCountry(countries, country);
                     System.out.println("Страна добавлена: " + country.getName());
                 }
-                case "print" -> {
-                    printAll(countries);
-                }
+                case "print" -> printAll(countries);
                 case "exit" -> {
                     scanner.close();
                     System.out.println("Программа завершена.");
